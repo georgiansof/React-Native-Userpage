@@ -1,50 +1,9 @@
-# Welcome to your Expo app 👋
+A React Native app (targeted to mobile, exportable to web) with react-native-paper that consumes an API in order to provide user logging.
+The app provides field checking for various fields like email, birthdate, password compliance and matching, romanian CNP (Numerical Personal Code) which also contains the birth date and must match.
+The app was developed to consume an existing API that might no longer exist in the future; I marked the places where the API URL is used with TODO.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![main_not_logged](https://github.com/georgiansof/React-Native-Userpage/assets/61194150/8a726f83-e371-4958-bc31-7bbcf8c5e14c)
+![login_page](https://github.com/georgiansof/React-Native-Userpage/assets/61194150/4a5aa83d-e457-491a-9d55-94ccf4e52f3a)
+![main_logged](https://github.com/georgiansof/React-Native-Userpage/assets/61194150/82283afe-2994-4242-bf21-a0ef627f3f74)
+![reg_page_1](https://github.com/georgiansof/React-Native-Userpage/assets/61194150/e46f74b4-0f17-4fc4-896a-206baf6fbb98)
+![reg_page_2](https://github.com/georgiansof/React-Native-Userpage/assets/61194150/58c43192-08e5-4cb9-8602-1fc7d3c475b3)
