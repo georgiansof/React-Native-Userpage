@@ -1,5 +1,5 @@
-A React Native app (targeted to mobile, exportable to web) with react-native-paper that consumes an API in order to provide user logging.
-The app provides field checking for various fields like email, birthdate, password compliance and matching, romanian CNP (Numerical Personal Code) which also contains the birth date and must match.
+A React Native app (targeted to mobile, exportable to web) with react-native-paper that consumes an API in order to provide user logging. \
+The app provides field checking for various fields like email, birthdate, password compliance and matching, romanian CNP (Numerical Personal Code) which also contains the birth date and must match. \
 The app was developed to consume an existing API that might no longer exist in the future; I marked the places where the API URL is used with TODO.
 
 ![main_not_logged](https://github.com/georgiansof/React-Native-Userpage/assets/61194150/8a726f83-e371-4958-bc31-7bbcf8c5e14c)
